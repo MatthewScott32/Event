@@ -1,0 +1,20 @@
+  .class1 {
+    display: flex;
+    flex-flow: row;
+    width: 50%;
+    justify-content: space-between;
+  }
+
+ #first-article {
+    border: solid 1px red;
+    margin: 10px;
+    width: 100px;
+ }
+
+ #second-article {
+    border: solid 1px blue;
+    margin: 10px;
+    width: 100px;
+ }
+
+
